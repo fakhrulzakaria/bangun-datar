@@ -1,0 +1,24 @@
+.bangun-datar {
+	margin: 0 auto;
+	text-align: center;
+	padding: 20px;
+	border: 1px solid #007bff;
+	margin-top: 300px;
+	border-radius: 3px;
+}
+
+.bangun {
+	padding: 10px 20px;
+	border-radius: 3px;
+	margin: 10px;
+	color: #007bff;
+	background: transparent;
+	border: 1px solid #007bff;
+}
+
+.bangun:hover {
+	background: #007bff;
+	color: #fff;
+	cursor: pointer;
+	transition: .3s;
+}
